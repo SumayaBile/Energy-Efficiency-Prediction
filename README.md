@@ -1,4 +1,4 @@
-**Machine Learning Project**
+**Energy-Efficiency-Prediction Project**
 Overview
 This repository contains a machine learning project aimed at predicting heating and cooling loads based on various features. The dataset used in this project is from the ENB2012 Data, which includes energy consumption data for buildings.
 
